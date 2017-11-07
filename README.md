@@ -2,12 +2,12 @@
 
 Kryetar grupi : Armelindo Lalaj
 
-Antare : Paris Zarka
+Antare: Paris Zarka
 
-              Elis Mino
+        Elis Mino
+	
+		Mateo Ikonomi
 
-              Mateo Ikonomi
+        Endrit Merkaj
 
-              Endrit Merkaj
-
-              Alban Duraku
+        Alban Duraku
