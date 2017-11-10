@@ -15,3 +15,6 @@ Kryetar grupi : Armelindo Lalaj
 
 ## Tema :  
 Krijimi i nje webpage per supermarketet
+
+## Pershkrimi: 
+Kjo web page do te beje te mundur prerjen e faturave nga shites te ndryshem kontrollin e bilancit etj.
