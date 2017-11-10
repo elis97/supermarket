@@ -13,5 +13,5 @@ Kryetar grupi : Armelindo Lalaj
  
   Alban Duraku
 
-## Tema : 
-   Krijimi i nje webpage per supermarketet
+## Tema :  
+Krijimi i nje webpage per supermarketet
