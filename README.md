@@ -12,3 +12,6 @@ Kryetar grupi : Armelindo Lalaj
   Endrit Merkaj
  
   Alban Duraku
+
+## Tema : 
+   Krijimi i nje webpage per supermarketet
