@@ -3,12 +3,12 @@
 Kryetar grupi : Armelindo Lalaj
 ## Pjestaret 
  
- . Paris Zarka
+  Paris Zarka
  
- . Elis Mino
+  Elis Mino
 
- . Mateo Ikonomi
+  Mateo Ikonomi
  
- . Endrit Merkaj
+  Endrit Merkaj
  
- . Alban Duraku
+  Alban Duraku
