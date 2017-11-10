@@ -2,7 +2,7 @@
 
 Kryetar grupi : Armelindo Lalaj
 
-Antare:Paris Zarka
+Antare: Paris Zarka
        Elis Mino
        Mateo Ikonomi
        Endrit Merkaj
