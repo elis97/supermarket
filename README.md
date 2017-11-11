@@ -2,7 +2,7 @@
 ___
 Kryetar grupi : Armelindo Lalaj
 ## **Pjestaret** 
-'''
+ '''
  1.*Paris Zarka*
  
  2.*Elis Mino*
@@ -12,7 +12,7 @@ Kryetar grupi : Armelindo Lalaj
  4.*Endrit Merkaj*
  
  5.*Alban Duraku* 
-'''
+ '''
 ## **Tema** :  
 Krijimi i nje webpage per supermarketet
 
