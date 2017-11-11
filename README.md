@@ -1,8 +1,9 @@
 # **Supermarket**
 ___
-Kryetar grupi : Armelindo Lalaj
+Kryetar grupi : *Armelindo Lalaj*
+___
 ## **Pjestaret** 
- '''
+
  1.*Paris Zarka*
  
  2.*Elis Mino*
@@ -11,8 +12,8 @@ Kryetar grupi : Armelindo Lalaj
  
  4.*Endrit Merkaj*
  
- 5.*Alban Duraku* 
- '''
+ 5.*Alban Duraku*
+ ___
 ## **Tema** :  
 Krijimi i nje webpage per supermarketet
 
