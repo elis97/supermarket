@@ -1,20 +1,21 @@
-# supermarket
-
+___
+# **Supermarket**
+___
 Kryetar grupi : Armelindo Lalaj
 ## Pjestaret 
+... 
+  1.*Paris Zarka*
  
-  Paris Zarka
- 
-  Elis Mino
+  2.*Elis Mino*
 
-  Mateo Ikonomi
+  3.*Mateo Ikonomi*
  
-  Endrit Merkaj
+  4.*Endrit Merkaj*
  
-  Alban Duraku
-
-## Tema :  
+  5.*Alban Duraku*
+ ...
+## **Tema** :  
 Krijimi i nje webpage per supermarketet
-
-## Pershkrimi: 
-Kjo web page do te beje te mundur prerjen e faturave nga shites te ndryshem kontrollin e bilancit etj.
+___
+## **Pershkrimi**: 
+Kjo web page do te beje te mundur prerjen e faturave nga shites te ndryshem ,kontrollin e bilancit etj.
