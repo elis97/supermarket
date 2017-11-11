@@ -1,9 +1,8 @@
 # **Supermarket**
 ___
 Kryetar grupi : Armelindo Lalaj
-## Pjestaret 
-...
-
+## **Pjestaret** 
+'''
  1.*Paris Zarka*
  
  2.*Elis Mino*
@@ -12,11 +11,10 @@ Kryetar grupi : Armelindo Lalaj
  
  4.*Endrit Merkaj*
  
- 5.*Alban Duraku*
-...
-  
+ 5.*Alban Duraku* 
+'''
 ## **Tema** :  
 Krijimi i nje webpage per supermarketet
-___
+
 ## **Pershkrimi**: 
 Kjo web page do te beje te mundur prerjen e faturave nga shites te ndryshem ,kontrollin e bilancit etj.
